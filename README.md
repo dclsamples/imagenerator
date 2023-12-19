@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## .env
+Requires Hugging Face key:
+
+HF_APIKEY=""
+
+<img width="1080" alt="Screen Shot 2023-12-19 at 10 50 50 AM" src="https://github.com/dclsamples/imagenerator/assets/1455542/df09442a-553a-4a5f-badd-ab32da1eb0de">
+
 ## Getting Started
 
 First, run the development server:
